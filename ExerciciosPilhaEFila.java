@@ -61,7 +61,6 @@ public class ExerciciosPilhaEFila {
     }
 
     public static void executarExercicioFila(Scanner scanner) {
-        // Implementação do exercício 2 - Fila
     }
 
     public static void executarExercicioCartasBaralho(Scanner scanner) {
